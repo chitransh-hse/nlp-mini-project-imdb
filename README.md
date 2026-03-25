@@ -22,9 +22,11 @@ The models are evaluated using accuracy and classification metrics. A comparison
 
 ## How to Run
 1. Install dependencies:
+
    pip install -r requirements.txt
 
-2. Run notebook:
+3. Run notebook:
+
    jupyter notebook notebook.ipynb
 
 ## Author
